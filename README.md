@@ -1,5 +1,5 @@
 
-![Hamster For Project](https://github.com/MadGrib/PortfolioProjects/assets/93443868/f0363f4e-36c3-440f-a1d9-217185d87d44)
+![Hamster For Project](https://github.com/MadGrib/PortfolioProjects/assets/93443868/9f98b91e-4141-4db7-87d2-ff83f893ae0e)
 
 # Where should I rent? Project about Rent price & Crime zones Edmonton
 
@@ -14,7 +14,8 @@
 
 The main objective of this project is to empower individuals with the necessary information to make informed decisions about where to rent in Edmonton. By analyzing rent prices and crime rates in different neighbourhoods, this project aims to offer valuable insights that can guide individuals in finding the perfect rental property that aligns with their budget and safety considerations.
 
-![GIF for Project](https://github.com/MadGrib/PortfolioProjects/assets/93443868/b4ef9799-350f-4780-a2b1-e21288d19b1c)
+![GIF for Project](https://github.com/MadGrib/PortfolioProjects/assets/93443868/6f50cac5-3c2f-4920-a28b-c6e587566975)
+
 
 
 ### Methodology
