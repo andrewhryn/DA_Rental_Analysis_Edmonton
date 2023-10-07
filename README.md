@@ -1,3 +1,5 @@
+
+![Uploading wepik-export-20231007204934hIFT.jpeg…]()
 # Where should I rent? Project about Rent price & Crime zones Edmonton
 
 ## Data Analysis Project: Rent Price & Crime Zones in Edmonton
