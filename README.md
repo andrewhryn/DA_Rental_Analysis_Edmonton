@@ -1,39 +1,33 @@
-
-![Hamster For Project](https://github.com/MadGrib/PortfolioProjects/assets/93443868/7f41c808-9df1-47ee-8cdb-804c84670f8a)
-
 # Where should I rent? Project about Rent price & Crime zones Edmonton
 
-## Data Analysis Project: Rent Price & Crime Zones in Edmonton
+## 🏠 Data Analysis Project: Rent Price & Crime Zones in Edmonton
 
-In this data analysis project, I conducted an extensive analysis of all the neighbourhoods in Edmonton to provide valuable insights for individuals looking to rent a property. The project focuses on two key factors: rent prices and crime rates, providing a comprehensive overview of the rental market and safety aspects in Edmonton.
+> In this data analysis project, I conducted an extensive analysis of all the neighbourhoods in Edmonton to provide valuable insights for individuals looking to rent a property. The project focuses on two key factors: rent prices and crime rates, providing a comprehensive overview of the rental market and safety aspects in Edmonton.
+> 
 
+---
 
-### What problem this project solve?
+## Isn't Canada safe?! What problem this project solve?
 
 The main objective of this project is to empower individuals with the necessary information to make informed decisions about where to rent in Edmonton. By analyzing rent prices and crime rates in different neighbourhoods, this project aims to offer valuable insights that can guide individuals in finding the perfect rental property that aligns with their budget and safety considerations.
 
-![GIF for Project](https://github.com/MadGrib/PortfolioProjects/assets/93443868/a0627d56-30cf-4282-92f1-0f3b3b429042)
-
+![GIF for Project.gif](Where%20should%20I%20rent%20Project%20about%20Rent%20price%20&%20Cri%20b52c9a1efbad48f3b6bd5f4903c05298/GIF_for_Project.gif)
 
 ### Methodology
 
 To achieve the project's objective, I collected and analyzed data on rent prices and crime rates from various reliable sources. The rent prices were meticulously categorized into four types: Studio, 1 bedroom, 2 bedroom, and 3+bedroom apartments and townhouses, ensuring a detailed analysis of rental options available in each neighbourhood. The crime rates were obtained from official crime statistics, ensuring the accuracy and reliability of the data.
 
-### Tech Stack:
+---
+
+### 🛠️ Tech Stack:
 
 - Excel: Used for basic data manipulation and data exploration
 - SQL: Used for creating joins, cleaning, and transforming data
 - Tableau: Used for visualizing the data analysis results
 
-### Project Limitations and Areas for Improvement
+---
 
-- Limited data availability: The analysis heavily relies on the data collected from various sources. However, the availability and completeness of the data may vary, which could impact the accuracy of the analysis. Obtaining more comprehensive and up-to-date data would enhance the reliability of the findings.
-- Additional factors for consideration: While this project focuses on rent prices and crime rates, there are other important factors to consider when choosing a rental property, such as proximity to amenities, transportation options, and quality of schools. Expanding the analysis to include additional factors would provide a more comprehensive evaluation for individuals seeking rental properties.
-- Real-time updates: The data used in this analysis may not reflect the most recent changes in rent prices and crime rates. Implementing a system for real-time data updates would ensure that the insights provided remain accurate and up-to-date for users.
-
-Overall, by addressing these limitations and making improvements, the project can offer even more valuable insights to individuals looking to rent a property in Edmonton.
-
-## Project Pipeline
+### Project Pipeline
 
 1. Data Collection:
     - Gather information on rent prices and crime rates from reliable sources.
@@ -64,4 +58,8 @@ Overall, by addressing these limitations and making improvements, the project ca
 
 Overall, by addressing these limitations and making improvements, the project can offer even more valuable insights to individuals looking to rent a property in Edmonton.
 
-##
+### 🤓 Data Sources
+
+- Rent prices: Data on rent prices was collected from reputable real estate websites, including [Canada’s national housing agency](https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/rental-market/rental-market-report-data-tables)
+- Crime rates: Official crime statistics were obtained from the [Edmonton Police Service Report](https://openperformance.edmonton.ca/dataset/EPS-Neighbourhood-Criminal-Occurrences/xthe-mnvi).
+- Spatial data: Relative spatial data was sourced from [Edmonton Opendata](https://data.edmonton.ca/Census/2021-Federal-Census-Neighbourhoods-as-of-Official-/5bk4-5txu)
