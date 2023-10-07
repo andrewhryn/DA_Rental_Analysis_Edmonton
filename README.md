@@ -7,6 +7,7 @@
 
 In this data analysis project, I conducted an extensive analysis of all the neighbourhoods in Edmonton to provide valuable insights for individuals looking to rent a property. The project focuses on two key factors: rent prices and crime rates, providing a comprehensive overview of the rental market and safety aspects in Edmonton.
 
+
 ### What problem this project solve?
 
 The main objective of this project is to empower individuals with the necessary information to make informed decisions about where to rent in Edmonton. By analyzing rent prices and crime rates in different neighbourhoods, this project aims to offer valuable insights that can guide individuals in finding the perfect rental property that aligns with their budget and safety considerations.
