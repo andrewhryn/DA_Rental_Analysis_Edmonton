@@ -1,5 +1,6 @@
 
-![Hamster For Project](https://github.com/MadGrib/PortfolioProjects/assets/93443868/9f98b91e-4141-4db7-87d2-ff83f893ae0e)
+![Hamster For Project 2](https://github.com/MadGrib/PortfolioProjects/assets/93443868/59b1027f-cb67-46f8-9c25-f5857089dae8)
+
 
 # Where should I rent? Project about Rent price & Crime zones Edmonton
 
