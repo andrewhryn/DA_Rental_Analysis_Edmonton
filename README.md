@@ -1,5 +1,7 @@
 
-![Uploading wepik-export-20231007204934hIFT.jpeg…]()
+![wepik-export-20231007204934hIFT](https://github.com/MadGrib/PortfolioProjects/assets/93443868/485d005a-1e0b-4014-a704-92d96f8a1a1f)
+
+
 # Where should I rent? Project about Rent price & Crime zones Edmonton
 
 ## Data Analysis Project: Rent Price & Crime Zones in Edmonton
