@@ -26,6 +26,7 @@ The main objective of this project is to empower individuals with the necessary 
 ![[Click here](https://public.tableau.com/app/profile/andrii.hryn/viz/WhereshouldIrentRentpriceCrimezonesEdmonton/Dashboard2) to open project visualization on Tableteau.](Where%20should%20I%20rent%20Project%20about%20Rent%20price%20&%20Cri%20b52c9a1efbad48f3b6bd5f4903c05298/GIF_for_Project.gif)
 
 ![GIF for Project](https://github.com/MadGrib/PortfolioProjects/assets/93443868/f4ecf442-a389-4ed7-9cdd-ff4c06cd679d)
+
 [Click here](https://public.tableau.com/app/profile/andrii.hryn/viz/WhereshouldIrentRentpriceCrimezonesEdmonton/Dashboard2) to open project visualization on Tableteau.
 
 ## 💡Methodology
