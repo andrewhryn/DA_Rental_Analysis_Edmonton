@@ -1,6 +1,7 @@
 
 ![Hamster For Project 2](https://github.com/MadGrib/PortfolioProjects/assets/93443868/d93154ca-05cc-4f07-ab9f-56ec1f393a63)
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
  
