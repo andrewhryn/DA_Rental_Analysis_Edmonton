@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [What problem this project solve?](notion://www.notion.so/madgrib/Where-should-I-rent-Project-about-Rent-price-Crime-zones-Edmonton-b52c9a1efbad48f3b6bd5f4903c05298#isnt-canada-safe-what-problem-this-project-solve)
+- [What problem this project solve?](https://github.com/MadGrib/PortfolioProjects/tree/main#data-analysis-project-rent-price--crime-zones-in-edmonton)
 - [Methodology](notion://www.notion.so/madgrib/Where-should-I-rent-Project-about-Rent-price-Crime-zones-Edmonton-b52c9a1efbad48f3b6bd5f4903c05298#methodology)
 - [Tech Stack](notion://www.notion.so/madgrib/Where-should-I-rent-Project-about-Rent-price-Crime-zones-Edmonton-b52c9a1efbad48f3b6bd5f4903c05298#tech-stack)
 - [Project Pipeline](notion://www.notion.so/madgrib/Where-should-I-rent-Project-about-Rent-price-Crime-zones-Edmonton-b52c9a1efbad48f3b6bd5f4903c05298#project-pipeline)
