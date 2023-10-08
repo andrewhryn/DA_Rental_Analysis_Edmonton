@@ -1,5 +1,8 @@
 
 ![Hamster For Project 2](https://github.com/MadGrib/PortfolioProjects/assets/93443868/d93154ca-05cc-4f07-ab9f-56ec1f393a63)
+
+	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 
 # Where should I rent? Project about Rent price & Crime zones Edmonton
 
 ## Table of Contents
